@@ -1,4 +1,6 @@
 # mDNS NodeJS (`mdns.js`)
 
-If you need a mDNS name for BrightSign.
+Create a new mDNS for BrightSign.
 In this example, open new mDNS as: http://internalweb.local:8009
+
+Install: open CMD in this folder and run npm install
